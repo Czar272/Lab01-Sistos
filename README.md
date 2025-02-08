@@ -60,3 +60,11 @@ Este ejercicio consiste en crear un programa en C que copie el contenido de un a
    ```bash
    cat archivo_destino.txt
    ```
+
+---
+
+## Ejercicio 3
+
+- Solo logre llegar a esta parte por el tiempo y por lo que dice en el pdf de la entrega. Me quede compilando los modulos del kernel.
+![image](https://github.com/user-attachments/assets/ca6ce18a-a905-45a3-bb7c-ec8613897d79)
+

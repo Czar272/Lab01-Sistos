@@ -28,3 +28,6 @@ Este programa imprime "Hello World!" y el ID del proceso (PID) que lo ejecuta.
 1. **Compilar el programa:**
    ```bash
    gcc -o hello_world_pid hello_world_pid.c
+2. **Ejecutar el programa:**
+   ```bash
+   ./hello_world_pid

@@ -67,4 +67,7 @@ Este ejercicio consiste en crear un programa en C que copie el contenido de un a
 
 - Solo logre llegar a esta parte por el tiempo y por lo que dice en el pdf de la entrega.
 ![image](https://github.com/user-attachments/assets/c5890f52-5b8e-40ab-a5ef-3f0e8ea740ae)
+![image](https://github.com/user-attachments/assets/8f53dc4b-2181-48d4-80fc-31d114e6d979)
+
+- Me falto unicamente reiniciar la maquina virtual y responder las preguntas...
 

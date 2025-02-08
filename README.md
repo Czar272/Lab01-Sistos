@@ -34,6 +34,8 @@ Este programa imprime "Hello World!" y el ID del proceso (PID) que lo ejecuta.
    ./hello_world_pid
    ```
 
+---
+   
 ## Ejercicio 2: `file_copy.c`
 Este ejercicio consiste en crear un programa en C que copie el contenido de un archivo fuente a un archivo destino utilizando las llamadas al sistema `open()`, `read()`, `write()` y `close()`.
 
